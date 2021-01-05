@@ -1,0 +1,57 @@
+// BOOTSTRAP IMPORTS
+@import "../node_modules/bootstrap/scss/functions"; //required
+@import "../node_modules/bootstrap/scss/variables"; //required
+@import "../node_modules/bootstrap/scss/mixins"; //required
+
+@import "../node_modules/bootstrap/scss/type"; //additional
+@import "../node_modules/bootstrap/scss/images"; //additional
+@import "../node_modules/bootstrap/scss/containers"; //additional
+@import "../node_modules/bootstrap/scss/grid"; //additional
+
+
+
+// TYPESCALE
+$headline1: (
+  font-family: unquote("Playfair Display"),
+  font-size: 99
+);
+$headline2: (
+  font-family: unquote("Playfair Display"),
+  font-size: 62
+);
+$headline3: (
+  font-family: unquote("Playfair Display"),
+  font-size: 49
+);
+$headline4: (
+  font-family: unquote("Playfair Display"),
+  font-size: 35
+);
+$headline5: (
+  font-family: unquote("Playfair Display"),
+  font-size: 25
+);
+$body1: (
+  font-family: unquote("Quicksand"),
+  font-size: 16
+);
+$subtitle1: (
+  font-family: unquote("Playfair Display"),
+  font-size: 16
+);
+$button: (
+  font-family: unquote("Quicksand"),
+  font-size: 14
+);
+$overline: (
+  font-family: unquote("Quicksand"),
+  font-size: 10
+);
+$caption: (
+  font-family: unquote("Quicksand"),
+  font-size: 12
+);
+// COLORS
+$primary_1: (
+
+)
